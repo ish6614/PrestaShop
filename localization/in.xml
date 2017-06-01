@@ -50,9 +50,10 @@
 		<state name="Rājasthān" iso_code="RJ" country="IN" zone="Asia" tax_behavior="0" />
 		<state name="Sikkim" iso_code="SK" country="IN" zone="Asia" tax_behavior="0" />
 		<state name="Tamil Nādu" iso_code="TN" country="IN" zone="Asia" tax_behavior="0" />
+		<state name="Telangana" iso_code="TG" country="IN" zone="Asia" tax_behavior="0" />
 		<state name="Tripura" iso_code="TR" country="IN" zone="Asia" tax_behavior="0" />
-		<state name="Uttaranchal" iso_code="UL" country="IN" zone="Asia" tax_behavior="0" />
 		<state name="Uttar Pradesh" iso_code="UP" country="IN" zone="Asia" tax_behavior="0" />
+		<state name="Uttarākhand" iso_code="UL" country="IN" zone="Asia" tax_behavior="0" />
 		<state name="West Bengal" iso_code="WB" country="IN" zone="Asia" tax_behavior="0" />
 		<state name="Andaman and Nicobar Islands" iso_code="AN" country="IN" zone="Asia" tax_behavior="0" />
 		<state name="Chandīgarh" iso_code="CH" country="IN" zone="Asia" tax_behavior="0" />
